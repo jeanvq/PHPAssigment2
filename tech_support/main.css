@@ -1,0 +1,15 @@
+.card-header.bg-indigo {
+    background-color: #6610f2 !important;
+}
+
+.card-header.bg-admin {
+    background-color: #3b82f6 !important; /* blue */
+}
+
+.card-header.bg-tech {
+    background-color: #f97316 !important; /* orange */
+}
+
+.card-header.bg-customer {
+    background-color: #10b981 !important; /* green */
+}
